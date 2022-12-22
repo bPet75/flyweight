@@ -6,8 +6,8 @@ public class Book {
         this.type = type;
     }
 
-    public String name;
-    public double price;
-    public BookType type;
+    private String name;
+    private double price;
+    private BookType type;
 
 }
